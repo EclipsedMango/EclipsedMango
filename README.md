@@ -1,8 +1,11 @@
 ## Hallo!
 Ich spreche klein **deutsch** und mein muttersprache ist **English**. Ich kommst aus du Australia!
+
 I speak a little **German** and my main language is **English**. I'm from Australia!
 
 I like ```Java```, ```gdScript```, everything to do with shaders and ```GLSL```.
+
+## Statistics:
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EclipsedMango&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
