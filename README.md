@@ -1,5 +1,6 @@
 ## Hallo!
-ich spreche klein **deutsch** aber mein muttersprache ist **English** ich kommst aus du Australia
+Ich spreche klein **deutsch** und mein muttersprache ist **English**. Ich kommst aus du Australia!
+I speak a little **German** and my main language is **English**. I'm from Australia!
 
 I like ```Java```, ```gdScript```, everything to do with shaders and ```GLSL```.
 
