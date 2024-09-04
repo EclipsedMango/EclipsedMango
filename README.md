@@ -1,5 +1,5 @@
 ## Hallo!
-Ich spreche klein **deutsch** und mein muttersprache ist **English**. Ich kommst aus du Australia! Ich lerne noch **deutsch**!
+Ich spreche klein **deutsch** und mein muttersprache ist **English**. Ich kommst aus du Australia! Ich lerne **deutsch** noch!
 
 I speak a little **German** and my main language is **English**. I'm from Australia! I'm still learning **German**!
 
