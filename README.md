@@ -3,7 +3,9 @@ Ich spreche klein **deutsch** und mein muttersprache ist **English**. Ich kommst
 
 I speak a little **German** and my main language is **English**. I'm from Australia! I'm still learning **German**!
 
-I like ```Java```, ```gdScript```, everything to do with shaders and ```GLSL```.
+I like `Java`, `gdScript`, everything to do with shaders and `GLSL`.
+
+I despise `python` and believe it's the most foul thing on this planet.
 
 ## Statistics:
 
