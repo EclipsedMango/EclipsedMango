@@ -12,5 +12,3 @@ I despise `python` and believe it's the most foul thing on this planet.
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EclipsedMango&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=EclipsedMango&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-[![stats](https://github-readme-streak-stats.herokuapp.com?user=EclipsedMango&theme=tokyonight&border_radius=0)](https://git.io/streak-stats)
