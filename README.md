@@ -1,6 +1,5 @@
 ## Hallo!
-I like to code.
-I'm not the best at it tho
+I like to code, I'm not very good at it but I try.
 
 ## Statistics:
 
