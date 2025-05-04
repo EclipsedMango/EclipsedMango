@@ -1,11 +1,6 @@
 ## Hallo!
-Ich spreche klein **deutsch** und mein muttersprache ist **English**. Ich bin lerne **deutsch** noch! auch ich kommst aus du Australia!
-
-I speak a little **German** and my main language is **English**. I'm still learning **German**! also I'm from Australia!
-
-I like `Java`, `gdScript`, everything to do with shaders and `GLSL`.
-
-I despise `python` and believe it's the most foul thing on this planet.
+I like to code.
+I'm not the best at it tho
 
 ## Statistics:
 
